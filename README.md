@@ -1,3 +1,2 @@
 # Data_Analysis
-This is a repository consisted of data analysis projects which can be used or various purposes such as college project,practice,etc
-in this file i have made a data analysis project using power bi this was help ful for understanding of power and consisted of using bsic concepts of data analysis
+The Ashish eCommerce Sales Dashboard is a dynamic and interactive data visualization tool designed to provide a comprehensive view of our eCommerce business's performance. Built using Power BI, this dashboard is a one-stop solution for monitoring, analyzing, and optimizing sales and revenue metrics.
